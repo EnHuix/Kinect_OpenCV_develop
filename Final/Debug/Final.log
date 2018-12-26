@@ -1,0 +1,14 @@
+﻿  myKinect.cpp
+d:\opencv\opencv\build\include\opencv2\core\mat.hpp(1964): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\opencv\opencv\build\include\opencv2\core\persistence.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\opencv\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\opencv\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\kinectpro\final\final\mykinect.cpp(167): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\kinectpro\final\final\mykinect.cpp(140): warning C4101: “finish”: 未引用的局部变量
+d:\kinectpro\final\final\mykinect.cpp(604): warning C4101: “hr”: 未引用的局部变量
+d:\kinectpro\final\final\mykinect.cpp(750): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+d:\kinectpro\final\final\mykinect.cpp(818): warning C4244: “参数”: 从“const float”转换到“int”，可能丢失数据
+d:\kinectpro\final\final\mykinect.cpp(840): warning C4244: “参数”: 从“const float”转换到“int”，可能丢失数据
+d:\kinectpro\final\final\mykinect.cpp(841): warning C4244: “参数”: 从“const float”转换到“int”，可能丢失数据
+d:\kinectpro\final\final\mykinect.cpp(701): warning C4172: 返回局部变量或临时变量的地址: joints
+  Final.vcxproj -> D:\KinectPro\Final\Debug\Final.exe

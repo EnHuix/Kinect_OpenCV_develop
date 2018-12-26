@@ -1,11 +1,10 @@
-# Kinect-V2.0-OpenCv
 利用kinect和OpenCv分离障碍物和人，并且实时检测人与障碍物的距离
 
 准备工作：
 
 1.安装Kinect SDK v2.0
 
-2.安装OpenCv，并在Visual Studio中配置OpenCv（建议配置完成后生成配置表，以便其他工程使用）（如果只是用OpneCv进行图片处理，建议使用Python）
+2.安装OpenCv3.0.0，并在Visual Studio中配置OpenCv（建议配置完成后生成配置表，以便其他工程使用）（如果只是用OpneCv进行图片处理，建议使用Python）
 （远离C++）
 
 要点：
